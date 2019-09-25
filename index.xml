@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml stylesheet href="hw3bstyle.css" type="text/css"?>
+<?xml-stylesheet type="text/css" href="hw3bstyle.css"?>
 <setlist>
 	<song>
 		<title>You Belong with Me</title>
 		<artist>Taylor Swift</artist>
 		<genre>Country</genre>
-		<year></year>
+		<year>2008</year>
 	</song>
 	<song>
 		<title>Red</title>
 		<artist>Taylor Swift</artist>
 		<genre>Pop</genre>
-		<year></year>
+		<year>2012</year>
 	</song>
 	<song>
 		<title>Our Song</title>
 		<artist>Taylor Swift</artist>
 		<genre>Country</genre>
-		<year></year>
+		<year>2006</year>
 	</song>
 	<song>
 		<title>Look What You Made Me Do</title>
 		<artist>Taylor Swift</artist>
 		<genre>Pop</genre>
-		<year></year>
+		<year>2017</year>
 	</song>
 	<song>
 		<title>You Belong with Me</title>
@@ -32,21 +32,33 @@
 		<year></year>
 	</song>
 	<song>
-		<title>You Belong with Me</title>
+		<title>White Horse</title>
 		<artist>Taylor Swift</artist>
 		<genre>Country</genre>
 		<year></year>
 	</song>
 	<song>
-		<title>You Belong with Me</title>
+		<title>Tim McGraw</title>
 		<artist>Taylor Swift</artist>
 		<genre>Country</genre>
 		<year></year>
 	</song>
 	<song>
-		<title>You Belong with Me</title>
+		<title>Tell Me WHy</title>
 		<artist>Taylor Swift</artist>
 		<genre>Country</genre>
+		<year></year>
+	</song>
+	<song>
+		<title>Shake It Off</title>
+		<artist>Taylor Swift</artist>
+		<genre>Pop</genre>
+		<year></year>
+	</song>
+	<song>
+		<title>New Romantics</title>
+		<artist>Taylor Swift</artist>
+		<genre>Pop</genre>
 		<year></year>
 	</song>
 </setlist>
