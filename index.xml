@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="hw3bstyle.css"?>
 <setlist>
+	<heading>Taylor Swift's Setlist</heading>
 	<song>
 		<title>You Belong with Me</title>
 		<artist>Taylor Swift</artist>
