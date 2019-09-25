@@ -1,6 +1,13 @@
+heading {
+	font-size: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-color: #DF1D1D;
+}
+
 title {
-	font-size: 10px;
-	font-color: red;
+	font-size: 40px;
+	font-color: #2B24F3;
 }
 
 artist {
