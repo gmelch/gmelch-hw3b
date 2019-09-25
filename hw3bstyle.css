@@ -5,6 +5,10 @@ heading {
 	font-color: #DF1D1D;
 }
 
+title, artists, genre, year {
+	display: block;
+}
+
 title {
 	font-size: 40px;
 	font-color: #2B24F3;
