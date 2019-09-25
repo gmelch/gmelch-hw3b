@@ -12,6 +12,7 @@ title, artists, genre, year, artist {
 	text-align: center;
 	color: #eca02c;
 	width: 100%;
+	background-color: #f4eef6;
 }
 
 title {
@@ -23,6 +24,5 @@ artist, genre, year {
 }
 
 song {
-	background-color: #f4eef6;
 	padding: 20px;
 }
