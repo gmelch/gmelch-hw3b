@@ -3,14 +3,16 @@ heading {
 	font-size: 60px;
 	text-align: center;
 	font-weight: bold;
-	color: #DF1D1D;
-	background-color: #000000;
+	color: #000000;
+	background-color: #f6dba7;
 }
 
 title, artists, genre, year, artist {
 	display: block;
 	text-align: center;
-	color: #2B24F3;
+	color: #eca02c;
+	background-color: #f4eef6;
+	width: 100%;
 }
 
 title {
