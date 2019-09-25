@@ -2,29 +2,20 @@ heading {
 	font-size: 60px;
 	text-align: center;
 	font-weight: bold;
-	font-color: #DF1D1D;
+	color: #DF1D1D;
+	background-color: #000000;
 }
 
 title, artists, genre, year {
 	display: block;
+	text-align: center;
+	color: #2B24F3;
 }
 
 title {
 	font-size: 40px;
-	font-color: #2B24F3;
 }
 
-artist {
-	font-size: 10px;
-	font-color: red;
-}
-
-genre {
-	font-size: 10px;
-	font-color: red;
-}
-
-year {
-	font-size: 10px;
-	font-color: red;
+artist, genre, year {
+	font-size: 20px;
 }
